@@ -1,3 +1,3 @@
-r=int(input("enter the radius= "))
+r=float(input("enter the radius (in cm)= "))
 area=3.14*r*r
-print (area)
+print (area,"cm square")
