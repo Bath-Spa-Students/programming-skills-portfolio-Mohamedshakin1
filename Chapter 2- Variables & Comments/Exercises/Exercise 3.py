@@ -4,6 +4,7 @@
 Print the name once, so the whitespace around the name is displayed. 
 Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().'''
 
+#Answer
 name="\tMohamed Shakin\n"
 print (name)
 print (name.lstrip())
