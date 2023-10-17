@@ -25,9 +25,12 @@ print(not_invited+", I am sorry I can’t invite you to dinner.")
 not_invited=names.pop()
 print(not_invited+", I am sorry I can’t invite you to dinner.")
 
+#Print a message to each of the two people still on your list, letting them know they’re still invited.
 print(names[0]+", you are still invited")
 print(names[1]+", you are still invited")
 
+"""Use del to remove the last two names from your list, so you have an empty list. 
+Print your list to make sure you actually have an empty list at the end of your program."""
 del names[0]
 del names[0]
 
