@@ -15,7 +15,7 @@ Print your list to make sure you actually have an empty list at the end of your 
 """Use pop() to remove guests from your list one at a time until only two names remain in your list. 
 Each time you pop a name from your list, 
 print a message to that person letting them know you’re sorry you can’t invite them to dinner."""
-names=["Azfar","Aseel","Suhail","Saif,","Maahir","Tufail"]
+names=["Azfar","Aseel","Suhail","Saif","Maahir","Tufail"]
 not_invited=names.pop()
 print(not_invited+", I am sorry I can’t invite you to dinner.")
 not_invited=names.pop()
