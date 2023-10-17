@@ -44,7 +44,7 @@ print ("List is changed in reverse order:",place)
 
 #Use reverse() to change the order of your list again. Print the list to show it’s back to its original order.
 place.reverse()
-print("List in its original order:",place)
+print("List back to its original order:",place)
 
 #Use sort() to change your list so it’s stored in alphabetical order. Print the list to show that its order has been changed.
 place.sort()
