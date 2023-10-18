@@ -25,15 +25,13 @@ place=["West Bengal","Abu Dhabi","Zimbabwe","India","Bahrain"]
 print (place)
 
 #Use sorted() to print your list in alphabetical order without modifying the actual list.
-alpha_order=sorted(place)
-print ("List in alphabetical order without modifying the actual list:",alpha_order)
+print ("List in alphabetical order without modifying the actual list:",sorted(place))
 
 #Show that your list is still in its original order by printing it.
 print ("List is still in its original order:",place)
 
 #Use sorted() to print your list in reverse alphabetical order without changing the order of the original list.
-alpha_order.reverse()
-print ("List in reverse alphabetical order without modifying the actual list:",alpha_order)
+print ("List in reverse alphabetical order without modifying the actual list:",sorted(place,reverse=True))
 
 #Show that your list is still in its original order by printing it again.
 print ("List is still in its original order:",place)
@@ -51,5 +49,5 @@ place.sort()
 print ("List is changed in alphabetical order:",place)
 
 #Use sort() to change your list so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
-place.reverse()
+place.sort(reverse=True)
 print ("List is changed in reverse alphabetical order:",place)
