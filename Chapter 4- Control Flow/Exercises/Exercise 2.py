@@ -8,6 +8,15 @@
 •Write one version of this program that runs the if block and another that runs the else block."""
 
 #Answer
+
+#Version 1
+alien_color='green'
+if alien_color=='green':
+    print ("Player earned 5 points")
+else:
+    print ("Player earned 10 points")
+
+#Version 2
 alien_color='yellow'
 if alien_color=='green':
     print ("Player earned 5 points")
