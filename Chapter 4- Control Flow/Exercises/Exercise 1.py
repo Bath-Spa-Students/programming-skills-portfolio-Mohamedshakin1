@@ -6,6 +6,16 @@
 •Write one version of this program that passes the if test and another that fails. (The version that fails will have no output.)"""
 
 #Answer
+
+#Passing  Version 
+alien_color='green'
+if alien_color=='green':
+    print ("Player earned 5 points")
+#Output- Player earned 5 points
+
+
+#Failing Version 
 alien_color='yellow'
 if alien_color=='green':
     print ("Player earned 5 points")
+#No output
