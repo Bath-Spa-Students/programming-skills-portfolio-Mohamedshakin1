@@ -12,6 +12,7 @@ glossary={'print':'is to display output',
           'string':'sequence of character that is enclosed with quotation mark',
           'type':'it returns the type of given variable'}
 
+#it displays all keys and values in line by line
 for key, value in glossary.items():
     print ("\n",key,value)
 
