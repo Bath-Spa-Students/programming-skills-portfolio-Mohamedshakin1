@@ -5,5 +5,7 @@ Then change the value of the variable to a new message, and print the new messag
 #Answer
 message="Good Morning"
 print(message)
+
+#Changing the value of the variable message
 message="Good Night"
 print(message)
