@@ -4,8 +4,8 @@ one at a time."""
 
 #Answer
 list_1=["Abubakar","Isaac","Shaan","Adil","Paul"]
-print(list_1[0])
-print(list_1[1])
-print(list_1[2])
-print(list_1[3])
-print(list_1[4])
+print(list_1[0]) #First person of the list
+print(list_1[1]) #Second person of the list
+print(list_1[2]) #Third person of the list
+print(list_1[3]) #Fourth person of the list
+print(list_1[4]) #Fifth person of the list
