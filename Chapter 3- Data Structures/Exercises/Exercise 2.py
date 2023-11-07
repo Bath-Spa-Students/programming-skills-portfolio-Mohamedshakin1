@@ -5,8 +5,8 @@ personalized with the person’s name."""
 
 #Answer
 list_1=["Abubakar","Isaac","Shaan","Adil","Paul"]
-print("Good Night",list_1[0])
-print("Good Night",list_1[1])
-print("Good Night",list_1[2])
-print("Good Night",list_1[3])
-print("Good Night",list_1[4])
+print("Good Night",list_1[0]) #Message to first person of the list
+print("Good Night",list_1[1]) #Message to second person of the list
+print("Good Night",list_1[2]) #Message to third person of the list
+print("Good Night",list_1[3]) #Message to fourth person of the list
+print("Good Night",list_1[4]) #Message to fifth person of the list
