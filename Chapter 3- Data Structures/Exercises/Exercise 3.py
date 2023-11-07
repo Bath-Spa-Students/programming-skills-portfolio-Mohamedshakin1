@@ -4,8 +4,8 @@ Use your list to print a series of statements about these items, such as “I wo
 
 #Answer
 transport=["Toyota car", "Nissan car", "Hyundai car", "Pulsar motorcycle", "KIA car"]
-print ('I would like to own a', transport[0] )
-print ('I would like to own a', transport[1] )
-print ('I would like to own a', transport[2] )
-print ('I would like to own a', transport[3] )
-print ('I would like to own a', transport[4] )
+print ('I would like to own a', transport[0] ) #Statement of first item of a list
+print ('I would like to own a', transport[1] ) #Statement of second item of a list
+print ('I would like to own a', transport[2] ) #Statement of third item of a list
+print ('I would like to own a', transport[3] ) #Statement of fourth item of a list
+print ('I would like to own a', transport[4] ) #Statement of fifth item of a list
