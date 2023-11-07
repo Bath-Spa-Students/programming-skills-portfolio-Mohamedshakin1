@@ -8,5 +8,5 @@ Then print the name using each of the three stripping functions, lstrip(), rstri
 name="\tMohamed Shakin\n"
 print (name)
 print (name.lstrip())
-print (name.rstrip())
+print (name.rstrip()) 
 print (name.strip())
