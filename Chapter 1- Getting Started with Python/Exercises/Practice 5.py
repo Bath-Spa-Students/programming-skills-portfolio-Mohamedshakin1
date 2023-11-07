@@ -5,5 +5,5 @@ a="Bath "
 b="Spa "
 c="University "
 d="RAK"
-string=a+b+c+d
+string=a+b+c+d #String Concatenation
 print (string)
