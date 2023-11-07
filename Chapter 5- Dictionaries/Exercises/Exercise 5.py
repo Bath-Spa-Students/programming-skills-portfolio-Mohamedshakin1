@@ -4,6 +4,8 @@ owner’s name. Store these dictionaries in a list called pets. Next, loop throu
 each pet"""
 
 #Answer
+
+#Creating each dictionary represents a different pet with the details of each pets
 Kitten={"Species":"Cat",
         "Owner_name":"James"}
 Puppy={"Species":"Dog",
@@ -13,6 +15,8 @@ Goldfish={"Species":"Fish",
 Parrot={"Species":"Bird",
         "Owner_name":"Aaron"}
 
+#store all dictionery of each pets in list called pets
 pets=[Kitten,Puppy,Goldfish,Parrot]
+#print everything you know about each pet
 for i in pets:
     print (i)
