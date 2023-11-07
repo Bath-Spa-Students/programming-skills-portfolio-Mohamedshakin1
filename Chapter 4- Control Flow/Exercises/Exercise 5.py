@@ -9,6 +9,7 @@ should print a statement,such as You really like bananas!"""
 
 #Answer
 favorite_fruits=['watermelon','orange','mango']
+#check whether a certain kind of fruit is in your list
 if 'watermelon' in favorite_fruits:
     print ("You really like watermelon!")
 if 'orange' in favorite_fruits:
