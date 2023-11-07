@@ -4,7 +4,7 @@ You should have keys such as first_name, last_name, age, and city. Print each pi
 
 #Answer
 details={'first_name': 'Mohamed', 'last_name': 'Azfar', 'age': 17, 'city': 'Sharjah'}
-print (details['first_name'])
-print (details['last_name'])
-print (details['age'])
-print (details['city'])
+print (details['first_name']) #it displays the value of 'first_name'
+print (details['last_name']) #it displays the value of 'second_name'
+print (details['age']) #it displays the value of 'age'
+print (details['city']) #it displays the value of 'city'
