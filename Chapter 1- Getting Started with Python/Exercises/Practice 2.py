@@ -3,5 +3,5 @@
 
 #Answer
 a="hi "
-# * is used for repitition
+# * is used for repetition
 print (a*50) 
