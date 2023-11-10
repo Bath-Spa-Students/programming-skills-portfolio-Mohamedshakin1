@@ -5,10 +5,10 @@ print a message saying you’ll add that topping to their pizza."""
 #Answer
 
 while True:
-    topping=input("Enter the topping to want to add: ")
+    topping=input("Enter the topping you want to add: ")
     #if value is quit then loop ends, else loop will continue
     if topping.lower()=='quit':
         break
-    print ("I added "+topping+" in your pizza")
+    print ("I will add "+topping+" in your pizza")
     
 
