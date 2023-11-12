@@ -10,5 +10,5 @@ while True:
         break
     else:
         list1.append(name)
-        print (list1)
+print (list1)
 
