@@ -12,13 +12,13 @@ while True:
     cost=0
     if age<3 and age>-1:
         cost+=0
-        print ("Your total ticket cost is free")
+        print ("Your ticket cost is free")
     elif age>=3 and age<=12:
         cost+=10
-        print ("Your total ticket cost is",cost)
+        print ("Your ticket cost is",cost)
     elif age>12:
         cost+=15
-        print ("Your total ticket cost is",cost)
+        print ("Your ticket cost is",cost)
     else:
         print ("Thank you for visiting")
         break
