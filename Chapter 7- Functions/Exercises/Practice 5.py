@@ -18,9 +18,9 @@ def prime(num):
 #if there are more than two numbers in list, its not a prime number.
 #if there is 1 or 2 numbers in list, its a prime number.
     if len(list1)>1:
-        print ("its not a prime number")
+        print (num, "is not a prime number")
     else:
-        print ("its a prime number")
+        print (num, "is a prime number")
 
 prime (23)
 prime(6)
