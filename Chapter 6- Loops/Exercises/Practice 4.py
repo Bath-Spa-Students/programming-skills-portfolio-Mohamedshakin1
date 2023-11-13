@@ -5,7 +5,7 @@
 list1=[]
 while True:
     name=input("Enter a name: ")
-    # if name is equal to exit then loop ends, else loop will continue adding names in list.
+    # if name is equal to 'exit' then loop ends, else loop will continue adding names in list.
     if name.lower()=="exit":
         break
     else:
