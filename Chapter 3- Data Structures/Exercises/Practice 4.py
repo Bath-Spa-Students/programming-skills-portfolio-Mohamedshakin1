@@ -11,7 +11,7 @@ for i in range (1,101):
 
 #list numbers2 is an empty list
 numbers2=[]
-print ("before copying in numbers2:",numbers2)
+print ("before copying to numbers2:",numbers2)
 #copying the values in numbers1 to numbers2.
 numbers2=numbers1
-print ("after copying in numbers2:",numbers2)
+print ("after copying to numbers2:",numbers2)
