@@ -5,9 +5,9 @@ and float in the separate variables. Print all the variables"""
 #Answer
 a=float(input("Enter a number= "))
 
-print (int(a)) #integer converts into string
+print (int(a)) #float converts into integer.
 
-print (float(a)) #integer converts into string
+print (float(a)) #float converts into float
 
-print (str(a)) #integer converts into string
+print (str(a)) #float converts into string
 
